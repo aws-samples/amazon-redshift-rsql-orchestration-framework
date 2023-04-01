@@ -35,7 +35,7 @@ To deploy the Generic RSQL Orchestration Framework solution, use the following c
 Replace `123456789012` with your AWS account number, `us-east-1` with the AWS Region to which you want deploy the solution.
 
 ```
-git clone https://gitlab.aws.dev/bnakhi/amazon-redshift-rsql-orchestration-framework.git
+git clone https://github.com/aws-samples/amazon-redshift-rsql-orchestration-framework.git
 cd amazon-redshift-rsql-orchestration-framework/lambdas/lambda-layer/
 sh zip_lambda_layer.sh
 cd ../../infra/
