@@ -1,0 +1,21 @@
+ Name                Version    License                              
+ attrs               22.2.0     MIT License                          
+ aws-cdk-lib         2.43.1     Apache-2.0                           
+ cattrs              22.2.0     MIT License                          
+ cdk-nag             2.22.12    Apache-2.0                           
+ certifi             2022.12.7  Mozilla Public License 2.0 (MPL 2.0) 
+ charset-normalizer  3.1.0      MIT License                          
+ constructs          10.1.256   Apache-2.0                           
+ docopt              0.6.2      MIT License                          
+ exceptiongroup      1.1.0      MIT License                          
+ idna                3.4        BSD License                          
+ jsii                1.75.0     Apache Software License              
+ pipreqs             0.4.11     Apache Software License              
+ publication         0.0.3      MIT License                          
+ python-dateutil     2.8.2      Apache Software License; BSD License 
+ requests            2.28.2     Apache Software License              
+ six                 1.16.0     MIT License                          
+ typeguard           2.13.3     MIT License                          
+ typing_extensions   4.5.0      Python Software Foundation License   
+ urllib3             1.26.15    MIT License                          
+ yarg                0.1.9      MIT License                          
