@@ -9,6 +9,7 @@ scripts. The converted scripts run on Amazon Redshift with little to no changes.
 During such migrations customers also want to modernize their current on-premises, third
 party orchestration tools with a cloud native framework to replicate and enhance their current orchestration capability. Orchestrating data warehouse workloads include, scheduling the jobs, checking if the pre-conditions have been met, executing the business logic embedded within RSQL, monitoring the status of the jobs and alerting if there is any failures
 
+
 This solution allows on-premises customers to migrate to a cloud native orchestration
 framework which uses AWS serverless services such as AWS Step Functions, AWS Lambda,
 Amazon DynamoDB, and AWS Systems Manager to execute the Amazon Redshift RSQL Jobs
